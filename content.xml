@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260507133003OE0G0W</value>
+    <value>20260507155558OFBS48</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605071330033UKDXD</value>
+    <value>20260507155558003D24</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>Pequeños creadores, grandes cambios</value>
+    <value>Pequeños creadores, grandes cambios.</value>
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
@@ -61,7 +61,7 @@ En este proyecto te convertirás en creador o creadora de contenido para ayudar 
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778007865399</value>
+    <value>1778162116767</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
